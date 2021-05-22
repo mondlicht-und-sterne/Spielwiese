@@ -4,10 +4,15 @@ _OpenTracks_ is a sport tracking application that completely respects your priva
 
 
 
+_OpenTracks_ is a sport tracking application that completely respects your privacy.
+
+
+
 <table>
     <tr>
         <th>Free</th>
         <th>Donations</th>
+        <th>Translations</th>
     </tr>
     <tr>
         <td align="center">
@@ -20,7 +25,11 @@ _OpenTracks_ is a sport tracking application that completely respects your priva
                 <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="45" align="middle">
             </a>
         </td>
-  
+        <td align="center">
+            <a href="https://weblate.bubu1.eu/engage/OpenTracks/">
+                <img src="https://weblate.bubu1.eu/widgets/OpenTracks/-/opentracks/svg-badge.svg" alt="Translation status" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td align="center">
