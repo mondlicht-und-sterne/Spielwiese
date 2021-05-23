@@ -27,7 +27,7 @@
 
 Hier findest Du die snippets für die Auszeichnungssprache markdown - jeweils mit Ausgabe (= Vorschau) und dem einzugebendem Code:
 
-- [Überschriften](#ueberschriften)
+- [Überschriften](#Überschriften)
 - [Texte formatieren](#texte)
 	- [Font-Formate](#formate)
 	- [Hoch-/Tief-Stellen von Texten](#sub)
