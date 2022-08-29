@@ -12,3 +12,4 @@ weight: 10
 | **zu besichtigen** | seit 28.08.2000 |
 | **Termine** | siehe [topio.info](https://topio.info) |
 | **barrierefrei** | nein |
+| **thema** | Public space for privacy |
