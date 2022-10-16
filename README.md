@@ -41,3 +41,6 @@ Hier findest Du die snippets für die Auszeichnungssprache markdown - jeweils mi
 - [Code](#code)
 - [Zitieren](#zitieren) (in REX auch Hinweise)
 - [Bilder](#images)
+
+
+[Goldbachs Aufstriche Verkaufsstellen](//umap.openstreetmap.fr/de/map/goldbachs-aufstriche-verkaufsstellen_820672)
