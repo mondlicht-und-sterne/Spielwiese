@@ -44,3 +44,14 @@ Hier findest Du die snippets für die Auszeichnungssprache markdown - jeweils mi
 
 
 [Goldbachs Aufstriche Verkaufsstellen](//umap.openstreetmap.fr/de/map/goldbachs-aufstriche-verkaufsstellen_820672)
+
+
+# Doable
+
+<a rel="me" href="https://floss.social/@doable"><img alt="Follow Doable on https://floss.social/@doable" src="https://img.shields.io/mastodon/follow/109514549599874572?color=ff5544&domain=https%3A%2F%2Ffloss.social&label=%40doable%40floss.social&style=for-the-badge&logo=mastodon&logoColor=ff5544"></a>
+[![Translation status](https://img.shields.io/weblate/progress/doable?color=ffdd11&logo=weblate&logoColor=ffdd11&server=https%3A%2F%2Ftranslate.codeberg.org&style=for-the-badge)](https://translate.codeberg.org/engage/doable/)
+[![License](https://img.shields.io/badge/License-MIT-44bb55?logo=codeberg&style=for-the-badge&logoColor=44bb55)](./LICENSE)
+[![F-Droid version](https://img.shields.io/badge/dynamic/xml?color=5544ff&label=F-Droid&prefix=v&query=%2F%2Ffdroid%2Fapplication%5B%40id%3D%22at.flobii.doable%22%5D%2Fmarketversion&url=https%3A%2F%2Fcodeberg.org%2Fflorian-obernberger%2Ffdroid-repo%2Fraw%2Fbranch%2Fmain%2Frepo%2Findex.xml&style=for-the-badge&logo=fdroid&logoColor=5544ff)](https://www.codeberg.org/florian-obernberger/fdroid-repo)
+
+A simple and easy to use Todo app complete with Material 3 design and support for its dynamic
+colors as well as Nextcloud integration!
