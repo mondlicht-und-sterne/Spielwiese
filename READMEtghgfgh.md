@@ -35,11 +35,7 @@
 </table>
 
 
-[/src/main/java/de/dennisguse/opentracks/util/TrackIconUtils.java#L38](/src/main/java/de/dennisguse/opentracks/util/TrackIconUtils.java#L38)). 
-  NOTE: if `TRACK_ICON` is not present, `TRACK_CATEGORY` will be used to determine the icon (localized).
-* Send recorded data to another application via _Dashboard API_: `STATS_TARGET_PACKAGE` and `STATS_TARGET_CLASS`
 
-The Public API is disabled by default to protect the user's privacy, but it can easily be enabled in the settings.
 
 ## File formats compatibility with open-source software
 
