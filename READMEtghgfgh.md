@@ -34,9 +34,6 @@
     </tr>
 </table>
 
-<a href="https://hosted.weblate.org/engage/opentracks/">
-  <img src="https://hosted.weblate.org/widgets/opentracks/-/horizontal-auto.svg" alt="Translation status" />
-</a>
 
 [/src/main/java/de/dennisguse/opentracks/util/TrackIconUtils.java#L38](/src/main/java/de/dennisguse/opentracks/util/TrackIconUtils.java#L38)). 
   NOTE: if `TRACK_ICON` is not present, `TRACK_CATEGORY` will be used to determine the icon (localized).
