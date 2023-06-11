@@ -31,10 +31,6 @@ Hier findest Du die snippets für die Auszeichnungssprache markdown - jeweils mi
 - [Zitieren](#zitieren) (in REX auch Hinweise)
 - [Bilder](#images)
 
-
-[Goldbachs Aufstriche Verkaufsstellen](//umap.openstreetmap.fr/de/map/goldbachs-aufstriche-verkaufsstellen_820672)
-
-
 # Doable
 
 <a rel="me" href="https://floss.social/@doable"><img alt="Follow Doable on https://floss.social/@doable" src="https://img.shields.io/mastodon/follow/109514549599874572?color=ff5544&domain=https%3A%2F%2Ffloss.social&label=%40doable%40floss.social&style=for-the-badge&logo=mastodon&logoColor=ff5544"></a>
