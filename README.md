@@ -94,23 +94,3 @@ colors as well as Nextcloud integration!
         </td>
     </tr>
 </table>
-
-<p>Translations are hosted on <a href="https://hosted.weblate.org/engage/opentracks/">
-hosted.weblate.org</a>.
-<a href="https://hosted.weblate.org/engage/opentracks/">
-<img src="https://hosted.weblate.org/widgets/opentracks/-/horizontal-auto.svg" alt="Translation status" />
-</a></p>
-<h2 id="screenshots">Screenshots</h2>
-<div>
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot1.png">
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot2.png">
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot3.png">
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot4.png">
-</div>
-<div>
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot5.png">
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot6.png">
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot7.png">
-    <img width="23%" src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot8.png">
-</div>
-
